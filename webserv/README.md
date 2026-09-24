@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/webserv-planche.png" width="100%" />
+<img src="./images/webserv-banner.png" width="100%" />
 <br><br>
 </div>
 
