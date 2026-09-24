@@ -2,8 +2,6 @@
 
 <img src="./images/webserv-planche.png" width="100%" />
 <br><br>
-4 2 P a r i s · W e b s e r v
-
 </div>
 
 ## 0 1 — P R O J E C T 
