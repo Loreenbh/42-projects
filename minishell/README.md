@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="./images/minishell-planche.png" width="100%" />
+<img src="./images/minishell-banner.png" width="100%" />
 <br><br>
-4 2 P a r i s · M i n i s h e l l
-
 </div>
 
 ## 0 1 — P R O J E C T
