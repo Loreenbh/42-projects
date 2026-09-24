@@ -3,9 +3,6 @@
 <img src="./images/42-planche.png" width="100%" />
 
 <br><br>
-
-4 2 P a r i s · P r o j e c t s
-
 </div>
 
 ## 0 1 — S Y S T E M S
