@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="./images/inception-planche.png" width="100%" />
+<img src="./images/inception-banner.png" width="100%" />
 <br><br>
-4 2 P a r i s · I n c e p t i o n
-
 </div>
 
 ## 0 1 — P R O J E C T
