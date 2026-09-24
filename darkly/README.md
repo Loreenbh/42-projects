@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/darkly-planche.png" width="100%" />
+<img src="./images/darkly-banner.png" width="100%" />
 <br><br>
 </div>
 
