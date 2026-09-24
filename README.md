@@ -31,7 +31,7 @@ Deployment of a multi-container web stack.
 
 ### Darkly [→](https://github.com/Loreenbh/42/tree/main/darkly)
 
-**Web Security · Vulnerabilities**
+**Web Security · Vulnerabilities · Write-ups**
 
 Introduction to common web vulnerabilities and security fundamentals.
 
